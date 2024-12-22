@@ -12,7 +12,7 @@ int bf(string s,string t){
 		if(s[i]==t[j]){
 			++i,++j;
 			if(j==sz_t)分数 
-				return k;
+				return k;电风扇 
 		}
 		else
 			++k,i=k,j=0;
