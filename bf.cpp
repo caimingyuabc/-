@@ -11,7 +11,7 @@ int bf(string s,string t){
 	while(i<sz_s && j<sz_t){
 		if(s[i]==t[j]){
 			++i,++j;
-			if(j==sz_t)
+			if(j==sz_t)·ÖÊý 
 				return k;
 		}
 		else
