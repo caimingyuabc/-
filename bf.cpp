@@ -11,8 +11,8 @@ int bf(string s,string t){
 	while(i<sz_s && j<sz_t){
 		if(s[i]==t[j]){
 			++i,++j;
-			if(j==sz_t)分数 
-				return k;电风扇 
+			if(j==sz_t)
+				return 
 		}
 		else
 			++k,i=k,j=0;
